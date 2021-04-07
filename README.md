@@ -1,6 +1,6 @@
 # DB-Tool
 
-A database tool for you to ***batch generating of datebase table documentation*** by  `.xlsx` or `.md` format in a single run. ( ***MSSQL*** supported only by now )
+A database tool for you to ***batch generating of datebase table documentation*** by  `.xlsx` or `.md` format in a single run. ( ***MSSQL*** supported only so far )
 
 You can choose to generate documentations of ***all tables in a certain database or several selected tables*** in the database. And also the format of it. 
 
