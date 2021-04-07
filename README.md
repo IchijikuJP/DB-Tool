@@ -6,7 +6,7 @@ You can choose to generate documentations of ***all tables in a certain database
 
 ## Quick Start
 
-***1. Set up configuration file in***  `dbconfig.toml` ***like this :*** 
+***Set up configuration file in***  `dbconfig.toml` ***like this :*** 
 
 ```toml
 [database]
@@ -19,7 +19,7 @@ name = "DB Name"
 
 
 
-***2. Run command line like this :***
+***Run command line like this :***
 
 Case when ***all tables*** in a certain database by `.md` format : 
 
