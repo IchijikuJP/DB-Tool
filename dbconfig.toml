@@ -1,0 +1,8 @@
+[database]
+host = "10.10.10.10"
+user = "yourname"
+password = "yourpassword"
+port = 5050
+name = "DB Name"
+
+[SQL]
